@@ -1,6 +1,22 @@
 # 💫 About Me:
 Backend Engineer with experience building distributed, event-driven systems on AWS, specializing in healthcare data infrastructure, search optimization, and real-time workflow orchestration. Proven track record of improving system reliability, scalability, and data integrity in HIPAA-compliant environments.<br>A Master of Computer Science graduate from North Carolina State University with expertise in Full stack, Cloud Computing, DevOps, Data Engineering and AIML. I thrive on designing scalable solutions that enhance performance and reliability.
 
+# 🎓 Education
+
+### 🐺 North Carolina State University — Raleigh, NC  
+**Master of Computer Science**  
+Aug 2023 – May 2025 | GPA: 3.8 / 4.0  
+Relevant Coursework: Algorithms (Steffen Heber), Operating Systems, Cloud Computing (Yannis Viniotis), Computer Networks
+
+---
+
+### 🎓 Acharya Institute of Technology — Bangalore, India  
+**Bachelor of Computer Science**  
+Aug 2019 – Jul 2023 | GPA: 9.3 / 10  
+Relevant Coursework: Object Oriented Design, Data Structures in C, Databases (NoSQL & SQL), AIML, Software Engineering
+🏆 Academic Topper — Class of 2019–2023  
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/snigdha-kotharu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snigdhakotharu02@gmail.com) 
